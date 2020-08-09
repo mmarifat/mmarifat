@@ -1,9 +1,7 @@
 # Hey Visitor 🦸🏼
 
 ```typescript
-mmarifat: {
-  name: string, lifeCircle: Array<string>
-  } = {
+mmarifat: {name: string, lifeCircle: Array<string>} = {
     name: "Md Minhaz Ahamed Rifat",
     lifeCircle: ['Coding 👨‍💻','Eating 🍪','Sleeping 😴']
 };
