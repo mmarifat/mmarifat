@@ -5,7 +5,7 @@ mmarifat: {
   name: string, lifeCircle: Array<string>
   } = {
     name: "Md Minhaz Ahamed Rifat",
-    lifeCircle: ['Coding ⌨️','Eating 🍪','Sleeping 😴']
+    lifeCircle: ['Coding 👨‍💻','Eating 🍪','Sleeping 😴']
 };
 ```
 
@@ -15,7 +15,7 @@ mmarifat: {
 [![Gmail Badge](https://img.shields.io/badge/-16103325@iubat.edu-BD3307?style=plastic&logo=Gmail&logoColor=white&link=mailto:16103325@iubat.edu)](mailto:16103325@iubat.edu)
 [![Instagram Badge](https://img.shields.io/badge/-mma.rifat-C407B5?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/mmarifat/)](https://instagram.com/mma.rifat)
 
- > I use:<br>
+ > I USE - <br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-8fcfd1?style=plastic&logo=typescript)
