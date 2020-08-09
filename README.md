@@ -17,7 +17,7 @@ Coding ⌨️ : Eating 🍪 : Sleeping 😴
   ![Vue.JS](https://img.shields.io/badge/-Vue.Js-3b2e5a?style=plastic&logo=Vue.JS)
   ![Quasar](https://img.shields.io/badge/-Quasar-0081CB?style=plastic&logo=quasar)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-092E20?style=plastic&logo=Node.JS)
-  ![Express.JS](https://img.shields.io/badge/-Express.JS-092E20?style=plastic&logo=Express.JS)
+  ![Express.JS](https://img.shields.io/badge/-Express.JS-092E20?style=plastic&logo=Express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-092E20?style=plastic&logo=mongodb)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![Jetbrains](https://img.shields.io/badge/-Jetbrains-007ACC?style=plastic&logo=jetbrains)
