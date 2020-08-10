@@ -8,6 +8,7 @@ mmarifat: {name: string, lifeCircle: Array<string>} = {
 ```
 
 > Contact - <br>
+
 [![Twitter Badge](https://img.shields.io/badge/-mmarifat6-38C1BF?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/mmarifat6/)](https://twitter.com/mmarifat6/)
 [![Facebook Badge](https://img.shields.io/badge/-mmarifat-128DC2?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/mma.rifat6/)](https://www.facebook.com/mma.rifat6/)
 [![Linkedin Badge](https://img.shields.io/badge/-mmarifat66-12C27C?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmarifat66/)](https://www.linkedin.com/in/mmarifat66/)
