@@ -5,7 +5,7 @@ mmarifat: {name: string, lifeCircle: Array<string>, contact: Array<any>} = {
     name: "Md Minhaz Ahamed Rifat",
     lifeCircle: ['Coding 👨‍💻','Eating 🍪','Sleeping 😴'],
     contact:{
-    [![Twitter Badge](https://img.shields.io/badge/-mmarifat6-38C1BF?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/mmarifat6/)]         (https://twitter.com/mmarifat6/),
+    [![Twitter Badge](https://img.shields.io/badge/-mmarifat6-38C1BF?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/mmarifat6/)](https://twitter.com/mmarifat6/),
     [![Facebook Badge](https://img.shields.io/badge/-mmarifat-128DC2?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/mma.rifat6/)](https://www.facebook.com/mma.rifat6/),
     [![Linkedin Badge](https://img.shields.io/badge/-mmarifat66-12C27C?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmarifat66/)](https://www.linkedin.com/in/mmarifat66/),
     [![Gmail Badge](https://img.shields.io/badge/-16103325@iubat.edu-BD3307?style=plastic&logo=Gmail&logoColor=white&link=mailto:16103325@iubat.edu)](mailto:16103325@iubat.edu),
