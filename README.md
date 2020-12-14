@@ -1,4 +1,4 @@
-# Hey Visitor 🦸🏼
+# Hey Visitor 
 
 ```typescript
 mmarifat: {name: string, lifeCircle: Array<string>} = {
