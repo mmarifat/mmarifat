@@ -24,10 +24,11 @@ mmarifat: {name: string, lifeCircle: Array<string>} = {
 ![Vue.JS](https://img.shields.io/badge/-Vue.Js-3b2e5a?style=plastic&logo=Vue.JS)
 ![Quasar](https://img.shields.io/badge/-Quasar-0081CB?style=plastic&logo=quasar)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-092E20?style=plastic&logo=Node.JS)
-![NestJS](https://img.shields.io/badge/-nestjst-black?style=plastic&logo=nestjs)
+![NestJS](https://img.shields.io/badge/-Nest.Js-red?style=plastic&logo=nestjs)
 ![TSED](https://img.shields.io/badge/-TSED-092A20?style=plastic&logo=TSED)
 ![Express.JS](https://img.shields.io/badge/-Express.JS-092E20?style=plastic&logo=Express.JS)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-092E20?style=plastic&logo=mongodb)
+![PostgreSQL]https://img.shields.io/badge/-PostgreSQL-blue?style=plastic&logo=postgresql
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
 ![Jetbrains](https://img.shields.io/badge/-Jetbrains-007ACC?style=plastic&logo=jetbrains)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
