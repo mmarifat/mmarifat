@@ -28,7 +28,7 @@ mmarifat: {name: string, lifeCircle: Array<string>} = {
 ![TSED](https://img.shields.io/badge/-TSED-092A20?style=plastic&logo=TSED)
 ![Express.JS](https://img.shields.io/badge/-Express.JS-092E20?style=plastic&logo=Express.JS)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-092E20?style=plastic&logo=mongodb)
-![PostgreSQL]https://img.shields.io/badge/-PostgreSQL-blue?style=plastic&logo=postgresql
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=plastic&logo=postgresql)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
 ![Jetbrains](https://img.shields.io/badge/-Jetbrains-007ACC?style=plastic&logo=jetbrains)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
