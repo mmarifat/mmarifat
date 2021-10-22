@@ -3,7 +3,7 @@
 ```typescript
 mmarifat: {name: string, lifeCircle: Array<string>} = {
     name: "Md Minhaz Ahamed Rifat",
-    lifeCircle: ['Coding 👨‍💻','Eating 🍪','Sleeping 😴']
+    lifeCircle: ['Coding 👨‍💻','Eating 🍪', 'Loving ♥', 'Sleeping 😴']
 };
 ```
 
@@ -17,10 +17,12 @@ mmarifat: {name: string, lifeCircle: Array<string>} = {
 
  > I USE - <br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-8fcfd1?style=plastic&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![Python](https://img.shields.io/badge/-Python-blasck?style=plastic&logo=python)
+![React](https://img.shields.io/badge/-React-blasck?style=plastic&logo=react)
+![Next](https://img.shields.io/badge/-Next.Js-blasck?style=plastic&logo=next.JS)
 ![Vue.JS](https://img.shields.io/badge/-Vue.Js-3b2e5a?style=plastic&logo=Vue.JS)
 ![Quasar](https://img.shields.io/badge/-Quasar-0081CB?style=plastic&logo=quasar)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-092E20?style=plastic&logo=Node.JS)
@@ -34,6 +36,7 @@ mmarifat: {name: string, lifeCircle: Array<string>} = {
 ![Apace Solr](https://img.shields.io/badge/-ApaceSolr-blue?style=plastic&logo=solr)
 ![Jetbrains](https://img.shields.io/badge/-Jetbrains-007ACC?style=plastic&logo=jetbrains)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![GitHub Action](https://img.shields.io/badge/-GithubAction-blasck?style=plastic&logo=github.action)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 ![Php](https://img.shields.io/badge/-Php-394989?style=plastic&logo=php)
 ![Java](https://img.shields.io/badge/-Java-3f4441?style=plastic&logo=java)
