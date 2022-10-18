@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/mmarifat)  
+
 # Hey Visitor 
 
 ```typescript
@@ -44,5 +46,9 @@ mmarifat: {name: string, lifeCircle: Array<string>} = {
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+\
+[![mmarifat's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmarifat)](https://github.com/anuraghazra/github-readme-stats)
 
 [![mmarifat's github stats](https://github-readme-stats.vercel.app/api?username=mmarifat&theme=white&show_icons=true)](https://github.com/mmarifat)
+
+![mmarifat's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=najmusshakib350)
