@@ -9,15 +9,11 @@ mmarifat: {name: string, lifeCircle: Array<string>} = {
 };
 ```
 
-> Contact - <br>
-
 [![Twitter Badge](https://img.shields.io/badge/-mmarifat6-38C1BF?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/mmarifat6/)](https://twitter.com/mmarifat6/)
 [![Facebook Badge](https://img.shields.io/badge/-mmarifat-128DC2?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/mma.rifat6/)](https://www.facebook.com/mma.rifat6/)
 [![Linkedin Badge](https://img.shields.io/badge/-mmarifat66-12C27C?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmarifat66/)](https://www.linkedin.com/in/mmarifat66/)
 [![Gmail Badge](https://img.shields.io/badge/-16103325@iubat.edu-BD3307?style=plastic&logo=Gmail&logoColor=white&link=mailto:16103325@iubat.edu)](mailto:16103325@iubat.edu)
 [![Instagram Badge](https://img.shields.io/badge/-mma.rifat-C407B5?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/mmarifat/)](https://instagram.com/mma.rifat)
-
- > I USE - <br>
 
 ![Typescript](https://img.shields.io/badge/-Typescript-8fcfd1?style=plastic&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
@@ -46,7 +42,8 @@ mmarifat: {name: string, lifeCircle: Array<string>} = {
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-\
+
+
 [![mmarifat's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmarifat)](https://github.com/anuraghazra/github-readme-stats)
 
 [![mmarifat's github stats](https://github-readme-stats.vercel.app/api?username=mmarifat&theme=white&show_icons=true)](https://github.com/mmarifat)
