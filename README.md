@@ -44,8 +44,6 @@ mmarifat: {name: string, lifeCircle: Array<string>} = {
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 
 
-[![mmarifat's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmarifat)](https://github.com/anuraghazra/github-readme-stats)
-
 [![mmarifat's github stats](https://github-readme-stats.vercel.app/api?username=mmarifat&theme=white&show_icons=true)](https://github.com/mmarifat)
 
 ![mmarifat's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=najmusshakib350)
